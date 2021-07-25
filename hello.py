@@ -1,5 +1,5 @@
 name = "Manel"
-n = 4
+n = 3
 
 for i in range(n):
     print('Hello {}'.format(name))
