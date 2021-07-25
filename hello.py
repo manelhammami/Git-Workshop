@@ -1,1 +1,2 @@
-print('Hello world')
+name = "Manel"
+print('Hello {}'.format(name))
